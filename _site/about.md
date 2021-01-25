@@ -1,7 +1,7 @@
 ---
 layout: default
 title: about me 
-permalink: http://https://jacksmith100.github.io/about.html
+permalink: /about.html
 ---
 
 ### School 
