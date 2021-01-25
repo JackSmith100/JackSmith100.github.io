@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: about
-permalink: /about.html/
+permalink: //about.html/
 ---
 
 ### School 
