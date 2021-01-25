@@ -1,7 +1,7 @@
 ---
 layout: default
 title: about me 
-permalink: http://JackSmith100.gihub.io/about
+permalink: http://JackSmith100.gihub.io/about.html
 ---
 
 ### School 
