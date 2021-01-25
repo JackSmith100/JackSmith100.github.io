@@ -1,9 +1,9 @@
-
 ---
 layout: default 
 title: Projects
 permalink: /projects.html/
 ---
+
 ## Intro
 In various statistics courses I have completed projects that...
 
