@@ -1,7 +1,7 @@
 ---
 layout: default
 title: about me 
-permalink: /about.html
+permalink: /about.html/
 ---
 
 ### School 
