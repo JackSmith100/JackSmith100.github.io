@@ -8,4 +8,4 @@ permalink: /about
 I attend the Univesity of Toronto and I'm in third year 
 
 ### Program 
-Financial Economics Specalist and Statistics Major  
+Financial Economics Specalist and Statistics Major. test
