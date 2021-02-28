@@ -6,9 +6,9 @@ title: Statistics Projects
 		<div class="projects">
 			<h2>Intro</h2>
 			<p style="font-size:15pt">
-			In various statistics courses I have completed projects 
+			In various statistics courses I have completed projects... 
 			</p>
-			<h2>Canadian and American Election PostStratification</h2>
+			<h2>Canadian and American Election Post-Stratification</h2>
 			<p style="font-size:15pt">
 			Placeholder
 			</p>
@@ -18,8 +18,46 @@ title: Statistics Projects
 			</p>
 			<h2>Concealed Carry Law Effects on Violent Crime and Murder </h2>
 			<p style="font-size:15pt">
-			Placeholder
+			I wrote a statisics paper thats looks for a statistically sound way to prove once and for all 
+			the effect of concealed carry laws have on violent crime and murder. Multiple regressions are run to determine the effect 
+			of the Shall-Carry or “concealed carry” law between the years of 1977 and 1999 in the United States. To get a complete look on 
+			the picture, multiple observed variables are considered, as well as time and state effects that may have 
+			unobserved effects on the regression. What is found is the concealed carry law does not seem to have a large 
+			impact on the crime or murder rate in states that implement the law vs those who do not enact the law. 
 			</p>
+			
+			<p style="font-size:15pt">
+			I ran four different regressions to see how different effects and variables change the impact of the shall carry law. The data 
+			was panel data, that observed multiple observations for each state between the years of 1977 to 1999.
+			I ran a basic regression with just the dummy variable for the shall carry and examined the impact it had on murder and violent 
+			crime rates. I then ran a second regression that controlled for other fixed effects such as the incareration rate, population density,
+			avg income, population, as well as demographic variables. The third regression controlled for clustered standerd errors and state fixed 
+			efects, and the foruth controlled for the variables in the third as well as time fixed effects. 
+			</p>
+			
+			<p style="font-size:15pt">
+			Clustered standard errors help the regression when there is potential serial correlation across time (i.e. the omitted errors are 
+			uncorrelated across state). If there is serial corelation, then standard errors are likely to be wrong and this will affect the 
+			statistical significance testing. Controlling for the state effects in the fixed effects regression removes any time invariant
+			unobserved variation across states, meaning that any unobserved variation in the states that is the same across all time periods 
+			will be wiped out with state fixed effects. An Example of state effect variation could be ease access to guns and 
+			firearm types that can be sold, each state will have different laws on how easy it is to get a gun but should be constant across time.
+			Controlling for time effects in fixed effects regression makes sure that any variation in the model that is state invariant that 
+			changes across time is removed from the model. An example of a time effect could be national changing attitude toward violent crime, 
+			this could be something that varies between years but not states.
+			</p>
+			
+			<p style="font-size:15pt">
+			What is found after running the regressions is that concealed carry laws have little impact on the murder rate and violent crime. 
+			The first and second regression found a stong statistical significant result that the shall carry law reduced violent crime and 
+			the murder rate. But, when state fixed effects, clustered standered errors and time fixed effects are controlled for there is only 
+			a very small non-statistically different result in the murder/violent crime rates. Its likely that any difference veiwed in the 
+			first and second regression was because the model was not refined enough and as the model get more refined the difference 
+			between states with and without concelaed carry gets smaller. 
+			</p>
+			
+			
+			
 			<h2>Toronto and Mississauga Housing Sale Regression Analysis</h2>
 			<p style="font-size:15pt">
 			I completed an analysis comparing housing sales of detached homes in Toronto and Mississauga. In the 
