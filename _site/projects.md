@@ -5,7 +5,7 @@ permalink: /projects
 ---
 
 ## Intro
-In various statistics courses I have completed projects that...
+<font size="4">In various statistics courses I have completed projects that...</font> 
 
 ## Canadian and American Election PostStratification 
 
