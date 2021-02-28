@@ -7,9 +7,11 @@ permalink: /projects
 ## Intro
 <font size="4">In various statistics courses I have completed projects that...</font> 
 
-## Canadian and American Election PostStratification 
+## Canadian and American Election PostStratification
+<font size="3">Test</font> 
 
-## Demographic Effect on Taking Self Defense Classes 
+## Demographic Effect on Taking Self Defense Classes
+<font size="2">test</font> 
 
 ## Concealed Carry Law Effects on Violent Crime and Murder 
 
