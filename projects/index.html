@@ -20,6 +20,22 @@ title: Statistics Projects
 			2016 Canadian Census. 
 			
 			</p>
+			<p style="font-size:15pt">
+			In order to analyze the data, a frequentist approach was used with the data sets, the software used to complete the analysis was R. Binary multiple regressions (logistic regression) were developed to explore the
+			election results. The binary response was designed to take the value of 1 when someone votes for the selected party and the value 0 when the intend to vote for a different party.
+			The variables for the Canadian study were age, gender and province while the Amerian study had age, gender and race as variables. 
+			</p>
+			
+			<p style="font-size:15pt">
+			Utilizing the logistic regression, the poststratification technique was then performed with each Census. In poststratification the population is divided into cells based on the demographic 
+		        characteristics (Age, Province, Gender, Race) that were used to develop the binary logistic regression model, The cells each represent a specific group of people. For example a cell could be the 
+			24-34-year-old males from Ontario for the Canadian study or a 25-year-old caucasion male from the American Study. The logistic regression estimates are made to create weights for each cell on how likely they are to vote for each political party.
+			With the weights of each cell from the logistic regression the Census is used to standardize the groups to a more realistic representation of the true population.
+			</p>
+			<p style="font-size:15pt">
+			The weights/estimates for each cell, combined with the frequency at which the cell occurs in the census is what gets the final vote prediction and establishes a more statistically accurate percentage of the population voting for each party
+			</p>
+			
 			<a href="/pdfs/Trump_Biden.pdf">Link: American Election Post-Stratification</a>
 			<p>
 			</p>
